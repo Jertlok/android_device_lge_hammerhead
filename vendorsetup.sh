@@ -14,4 +14,5 @@
 # limitations under the License.
 #
 
-add_lunch_combo aosp_hammerhead-userdebug
+# Keep the Bootleg
+add_lunch_combo bootleg_hammerhead-userdebug

@@ -1,0 +1,15 @@
+[
+ {
+   "remote": "github",
+   "repository": "Unlegacy-Android/android_kernel_lge_hammerhead",
+   "target_path": "kernel/lge/hammerhead",
+   "branch": "stable"
+ }
+
+ {
+   "remote": "github",
+   "repository": "android/vendor_qcom_hammerhead",
+   "target_path": "vendor/qcom/hammerhead",
+   "branch": "android-8.1"
+ }
+]
