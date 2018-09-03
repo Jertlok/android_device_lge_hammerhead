@@ -8,8 +8,8 @@
 
  {
    "remote": "github",
-   "repository": "android/vendor_qcom_hammerhead",
-   "target_path": "vendor/qcom/hammerhead",
+   "repository": "Unlegacy-Android/proprietary_vendor_qcom",
+   "target_path": "vendor/qcom",
    "branch": "android-8.1"
  }
 ]

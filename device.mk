@@ -406,7 +406,7 @@ endif
 # setup dalvik vm configs.
 $(call inherit-product, frameworks/native/build/phone-xhdpi-2048-dalvik-heap.mk)
 
-$(call inherit-product-if-exists, vendor/qcom/hammerhead/gpu/msm8x74/msm8x74-gpu-vendor.mk)
+$(call inherit-product-if-exists, vendor/qcom/hammerhead/msm8x74/msm8x74-gpu-vendor.mk)
 $(call inherit-product-if-exists, hardware/broadcom/wlan/bcmdhd/firmware/bcm4339/device-bcm.mk)
 
 # Vendor security patch level
